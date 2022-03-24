@@ -3,6 +3,7 @@ import helpers
 
 pygame.init()
 
+
 WIDTH = 600
 HEIGHT = 480
 
